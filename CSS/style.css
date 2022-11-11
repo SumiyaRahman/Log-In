@@ -44,6 +44,9 @@ input{
     border: none;
     border-bottom: 1px solid gainsboro;
 }
+input::placeholder{
+    font-family: 'Noto Sans Khmer', sans-serif;
+}
 .email{
     margin-bottom: 20px;
 }
